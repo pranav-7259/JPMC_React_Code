@@ -1,0 +1,19 @@
+{
+    "courses":[
+        {
+            "id" : 1,
+            "title" : "Python",
+            "Price" : 3000
+        },
+        {
+            "id" : 2,
+            "title" : "React",
+            "Price" : 5000
+        },
+        {
+            "id" : 3,
+            "title" : "JAVA",
+            "Price" : 7000
+        }
+    ]
+}
